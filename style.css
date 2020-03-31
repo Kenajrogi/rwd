@@ -1,0 +1,75 @@
+footer
+{
+	background-color: #ffaf00;
+	text-align: center;
+	color: black;
+}
+#red
+{
+	color: #ffaf00;
+	display: inline;
+}
+#blue
+{
+	color: #139ded;
+	display: inline;
+}
+body
+{
+	background-color: #352c61;
+	color: #fff8e8;
+}
+p
+{
+	font-family: "Consolas";
+    font-size: 18px;
+	
+}
+h1
+{
+	font-size: 40px;
+	color: #fff8e8;
+	margin: 20px;
+	
+}
+
+.jumpers
+{
+	text-align: center;
+	font-family: "Consolas";
+	
+}
+
+.jumpers img
+{
+	width: 100%;
+	height: auto;
+	
+	
+}
+img:hover
+{
+	opacity:0.4;
+}
+.jumpers p
+{
+	margin-bottom: 50px;
+	
+	
+}
+
+.jumpers figcaption
+{
+	margin-top: 8px;
+	color: #b3b3cc;
+}
+table
+{
+	border: solid 1px;
+	text-align: center;
+	margin-top:50px;
+	padding: 20px;
+}
+
+
+
